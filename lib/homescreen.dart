@@ -5,7 +5,7 @@ import 'dart:convert';
 
 // Constants
 const String domain = "https://api.openweathermap.org/data/2.5/weather?";
-const String apiKey = "88e9a89122bb070736ba25a11d16676c";
+const String apiKey = "010a46c3e374fd9fb4a7b478be2f5d23";
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
